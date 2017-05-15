@@ -1,3 +1,0 @@
-Чтобы задеплоить нужно явно пропиать корневой путь в файле index.html  :
-
-<base href="https://1-front-end-developer.github.io/test-angular-cli-dist/">
